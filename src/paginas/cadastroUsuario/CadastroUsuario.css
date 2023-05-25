@@ -1,0 +1,16 @@
+.img2{
+    background-image: url(https://marketplace.canva.com/EAFKIsxfWjI/1/0/1600w/canva-papel-de-parede-cora%C3%A7%C3%A3o-gradiente-bege-rosa-e-azul-eS21LuYsgUs.jpg);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height:100vh;
+    background-size: cover;
+    background-position:center;
+}
+
+.txt{
+    font-weight: bold !important;
+}
+
+.btCancelar{
+    margin-right: 20px !important;
+}
