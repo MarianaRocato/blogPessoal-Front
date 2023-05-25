@@ -1,0 +1,19 @@
+.caixa{
+    background-color: #3F51B5;
+}
+
+.titulo{
+    color: white !important;
+    font-weight: bold !important;
+    
+}
+
+.button{
+background-color: #3F51B5 !important;
+border-color: white;
+color: white !important;
+}
+
+.posts{
+  background-color: white;
+}

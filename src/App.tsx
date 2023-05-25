@@ -11,11 +11,14 @@ function App() {
     <>
       <BrowserRouter>
         <Navbar />
-        <Routes>
+        <div style={{ minHeight: '100vh'}}>
+          <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/home" element={<Home />} />
             <Route path="/login" element={<Login />} />
-        </Routes>
+
+          </Routes>
+        </div>
         <Footer />
       </BrowserRouter>
     </>
